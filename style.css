@@ -54,6 +54,7 @@ nav ul li a:hover {
 }
 .text-gray {
   color: gray;
+  font-size: 1.8rem;
 }
 #element {
   color: rgb(170, 107, 228);
@@ -64,7 +65,7 @@ nav ul li a:hover {
   height: 42vh;
 }
 .secondSection h1 {
-  font-size: 1.9rem;
+  font-size: 3rem;
 }
 main hr {
   border: 0;
@@ -76,7 +77,7 @@ main hr {
   background: white;
   width: 78vw;
   height: 2px;
-  margin: 56px 0;
+  margin: 80px 0;
   display: flex;
 }
 .secondSection .vertical {
@@ -86,14 +87,14 @@ main hr {
   margin: 0 85px;
 }
 .image-top {
-  width: 23px;
+  width: 60px;
   position: relative;
-  top: -32px;
+  top: -75px;
   left: -9px;
 }
 .vertical-text {
   position: relative;
-  top: 72px;
+  top: 100px;
   width: 150px;
   font-size: 14px;
 }
@@ -143,4 +144,12 @@ main hr {
   font-size: 15px;
   letter-spacing: 1px;
   padding: 20px;
+}
+.btn{
+ border: #9c97f1;
+  background-color: rgb(3, 3, 3);
+  padding: 16px 32px;
+  font-size: 16px;
+
+ 
 }
